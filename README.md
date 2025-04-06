@@ -1,5 +1,5 @@
 # Apple login page in html and css
-![Tux, Apple login page](/img/screencapture/Apple-login-page.png)
+![Tux, Apple login page](/Apple-login/img/screencapture/apple-login-page.png)
 
 
 <div align="center">
